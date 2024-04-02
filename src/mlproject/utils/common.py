@@ -2,12 +2,12 @@ import os
 import yaml
 import json
 import joblib
-from ensure import ensure_annotations
 from pathlib import Path
 from typing import Any
 from box.exceptions import BoxValueError
 from box import ConfigBox 
 from mlproject.utils import logger
+from  ensure import ensure_annotations
 
 @ensure_annotations
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
