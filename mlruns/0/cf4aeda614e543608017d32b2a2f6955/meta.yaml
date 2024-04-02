@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/srini/End-to-end-Mlops/mlruns/0/cf4aeda614e543608017d32b2a2f6955/artifacts
+end_time: 1712079299571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf4aeda614e543608017d32b2a2f6955
+run_name: gentle-seal-577
+run_uuid: cf4aeda614e543608017d32b2a2f6955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712079295572
+status: 3
+tags: []
+user_id: srini

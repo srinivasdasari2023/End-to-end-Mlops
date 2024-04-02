@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/srini/End-to-end-Mlops/mlruns/0/2fa660aaa3e4455887b89b4b44ec5d5f/artifacts
+end_time: 1712079297892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fa660aaa3e4455887b89b4b44ec5d5f
+run_name: unequaled-shrew-986
+run_uuid: 2fa660aaa3e4455887b89b4b44ec5d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712079293736
+status: 3
+tags: []
+user_id: srini
