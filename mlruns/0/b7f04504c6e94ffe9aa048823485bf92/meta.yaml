@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/srini/End-to-end-Mlops/mlruns/0/b7f04504c6e94ffe9aa048823485bf92/artifacts
+end_time: 1712068644417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7f04504c6e94ffe9aa048823485bf92
+run_name: stylish-wasp-346
+run_uuid: b7f04504c6e94ffe9aa048823485bf92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712068640936
+status: 3
+tags: []
+user_id: srini
