@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/srini/End-to-end-Mlops/mlruns/0/e3cd6fa17af34021ac67fffffb74862c/artifacts
+end_time: 1712069336661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3cd6fa17af34021ac67fffffb74862c
+run_name: gifted-wren-92
+run_uuid: e3cd6fa17af34021ac67fffffb74862c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712069333184
+status: 3
+tags: []
+user_id: srini
